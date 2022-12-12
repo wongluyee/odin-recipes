@@ -3,10 +3,6 @@ body {
   font-family: "Arial", Sans-serif;
 }
 
-h1 {
-  color:#0d2149;
-}
-
-ul {
+h1,h2,h3,ul,ol {
   color:#0d2149;
 }
